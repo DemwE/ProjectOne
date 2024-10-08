@@ -1,7 +1,15 @@
-### Core
+### Frontend
 - **Next.js** - https://nextjs.org/
 
   A powerful React framework for building server-side rendered and static web applications.
+
+- **NextUI** - https://nextui.org/
+  
+  A modern React UI library with a focus on usability and customization, perfect for building visually appealing interfaces.
+
+- **Tailwind CSS** - https://tailwindcss.com/
+  
+  A utility-first CSS framework for rapid UI development, allowing for custom designs without leaving your HTML.
 
 ### Data Base
 - **Drizzle ORM** - https://orm.drizzle.team/
